@@ -128,7 +128,7 @@
                             className: "mt-8 text-l font-extralight break-words mobile-spacing-description",
                             children: [(0,
                             r.jsx)("span", {
-                                children: "Create smart web3 systems by just stating your intent. Axal powers agentic"
+                                children: "Create smart web3 systems by just stating your intent. 3SAI powers agentic"
                             }), (0,
                             r.jsx)("span", {
                                 children: "markets that find optimal solutions with zero counterparty risk."
@@ -250,7 +250,7 @@
                             className: "mt-12 text-xs font-light break-words",
                             children: [(0,
                             r.jsx)("span", {
-                                children: "Axal is a network for verifiable autonomous agents."
+                                children: "3SAI is a network for verifiable autonomous agents."
                             }), (0,
                             r.jsx)("span", {
                                 children: "Create agent-powered, verifiable web3 systems by"
